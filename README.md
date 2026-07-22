@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="downloads/etapadedecidir.png" alt="Elaboración de Documentación de Sistemas Informáticos" width="100%">
+</p>
 <div align="center">
 
 # 📚 Elaboración de Documentación de Sistemas Informáticos
