@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./etapadedecidir.jpeg" width="4000">
+  <img src="./etapadedecidir.jpeg" width="400">
 </p>
 
 <div align="center">
